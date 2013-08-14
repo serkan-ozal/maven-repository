@@ -3,7 +3,7 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-jdbc-roma-api</artifactId>
   <versioning>
-    <release>1.1.1-RELEASE</release>
+    <release>1.1.2-RELEASE</release>
     <versions>
       <version>1.0.1-RELEASE</version>
       <version>1.0.2-RELEASE</version>
@@ -16,7 +16,8 @@
       <version>1.0.9-RELEASE</version>
       <version>1.1.0-RELEASE</version>
       <version>1.1.1-RELEASE</version>
+      <version>1.1.2-RELEASE</version>
     </versions>
-    <lastUpdated>20130814142138</lastUpdated>
+    <lastUpdated>20130814145727</lastUpdated>
   </versioning>
 </metadata>
