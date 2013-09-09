@@ -3,10 +3,21 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-jdbc-roma-impl</artifactId>
   <versioning>
-    <release>1.0.0-RELEASE</release>
+    <release>1.1.2-RELEASE</release>
     <versions>
-      <version>1.0.0-RELEASE</version>
+      <version>1.0.1-RELEASE</version>
+      <version>1.0.2-RELEASE</version>
+      <version>1.0.3-RELEASE</version>
+      <version>1.0.4-RELEASE</version>
+      <version>1.0.5-RELEASE</version>
+      <version>1.0.6-RELEASE</version>
+      <version>1.0.7-RELEASE</version>
+      <version>1.0.8-RELEASE</version>
+      <version>1.0.9-RELEASE</version>
+      <version>1.1.0-RELEASE</version>
+      <version>1.1.1-RELEASE</version>
+      <version>1.1.2-RELEASE</version>
     </versions>
-    <lastUpdated>20130709164616</lastUpdated>
+    <lastUpdated>20130814145522</lastUpdated>
   </versioning>
 </metadata>
