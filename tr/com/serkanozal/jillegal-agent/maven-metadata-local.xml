@@ -3,14 +3,15 @@
   <groupId>tr.com.serkanozal</groupId>
   <artifactId>jillegal-agent</artifactId>
   <versioning>
-    <release>1.0.3-RELEASE</release>
+    <release>1.0.4-RELEASE</release>
     <versions>
       <version>1.0.0-BETA</version>
       <version>1.0.0-RELEASE</version>
       <version>1.0.1-RELEASE</version>
       <version>1.0.2-RELEASE</version>
       <version>1.0.3-RELEASE</version>
+      <version>1.0.4-RELEASE</version>
     </versions>
-    <lastUpdated>20130909200138</lastUpdated>
+    <lastUpdated>20130911174641</lastUpdated>
   </versioning>
 </metadata>
