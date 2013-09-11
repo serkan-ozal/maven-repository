@@ -3,7 +3,7 @@
   <groupId>tr.com.serkanozal</groupId>
   <artifactId>jillegal</artifactId>
   <versioning>
-    <release>1.0.4-RELEASE</release>
+    <release>1.0.5-RELEASE</release>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
       <version>1.0.0-SNAPSHOT</version>
@@ -104,6 +104,6 @@
       <version>1.0.14-RELEASE</version>
       <version>1.0.15-RELEASE</version>
     </versions>
-    <lastUpdated>20130910173624</lastUpdated>
+    <lastUpdated>20130911174755</lastUpdated>
   </versioning>
 </metadata>
