@@ -1,0 +1,2 @@
+mvn install:install-file -Dfile=sa_jdi-1.7.jar -DgroupId=com.sun.tools -DartifactId=sa_jdi -Dversion=1.7 -Dpackaging=jar
+
