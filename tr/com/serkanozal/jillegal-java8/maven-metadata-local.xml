@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tr.com.serkanozal</groupId>
+  <artifactId>jillegal-java8</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0-SNAPSHOT</version>
+      <version>2.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140720185513</lastUpdated>
+  </versioning>
+</metadata>
