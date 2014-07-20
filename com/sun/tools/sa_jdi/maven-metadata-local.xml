@@ -3,12 +3,13 @@
   <groupId>com.sun.tools</groupId>
   <artifactId>sa_jdi</artifactId>
   <versioning>
-    <release>1.8</release>
+    <release>jrockit</release>
     <versions>
       <version>1.6</version>
       <version>1.7</version>
       <version>1.8</version>
+      <version>jrockit</version>
     </versions>
-    <lastUpdated>20140608063507</lastUpdated>
+    <lastUpdated>20140718175923</lastUpdated>
   </versioning>
 </metadata>
