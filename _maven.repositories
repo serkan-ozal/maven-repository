@@ -1,8 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jul 26 12:29:52 EEST 2016
-stanford-corenlp-3.3.0.jar>central=
-stanford-corenlp-3.3.0.pom>central=
-stanford-corenlp-3.3.0-models.jar>central=
-stanford-corenlp-3.3.0-sources.jar>central=
-stanford-corenlp-3.3.0-models-trashed.jar>=
-stanford-corenlp-3.3.0-models.jar>=
