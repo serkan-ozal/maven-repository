@@ -3,9 +3,11 @@
   <groupId>tr.com.serkanozal</groupId>
   <artifactId>samba</artifactId>
   <versioning>
+    <release>1.0</release>
     <versions>
+      <version>1.0</version>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160913212753</lastUpdated>
+    <lastUpdated>20160914172558</lastUpdated>
   </versioning>
 </metadata>
